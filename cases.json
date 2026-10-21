@@ -1,0 +1,62 @@
+[
+  {
+    "project": "EcomGen",
+    "date": "2026-10-21",
+    "model": "gpt-image-2.5-flare",
+    "kind": "image",
+    "parameters": {
+      "model": "gpt-image-2.5-flare",
+      "n": 1,
+      "size": "1:1",
+      "metadata": {
+        "resolution": "1K"
+      },
+      "quality": "high"
+    },
+    "quote": {
+      "model": "gpt-image-2.5-flare",
+      "type": "image",
+      "conditions": {
+        "resolution": "1K",
+        "n": 1,
+        "input_image_count": 0,
+        "quality": "high"
+      },
+      "currency": "USD",
+      "unit": "request",
+      "price_basis": "request",
+      "charge_type": "per_request",
+      "maximum_unit_price": "0.0225",
+      "prices": [
+        {
+          "charge_type": "per_request",
+          "conditions": {
+            "n": 1,
+            "quality": "high",
+            "resolution": "1K"
+          },
+          "group": "default",
+          "price_basis": "request",
+          "unit": "request",
+          "unit_price": "0.0225"
+        }
+      ],
+      "queried_at": "2026-10-21T08:22:36.459323+00:00",
+      "is_final_charge": false
+    },
+    "estimated_usd": "0.0225",
+    "status": "completed",
+    "cost": {
+      "model": "gpt-image-2.5-flare",
+      "billing_status": "unavailable",
+      "actual_cost_usd": null,
+      "actual_credits": null
+    },
+    "file": "assets/gpt-image-2.5-flare-366155783d.png",
+    "price_basis": "Same-key quotation; task actual settlement unavailable",
+    "case_price_usd": "0.0225",
+    "is_actual_charge": false,
+    "width": 1024,
+    "height": 1024
+  }
+]

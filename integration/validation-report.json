@@ -1,0 +1,17 @@
+{
+  "date": "2026-10-21",
+  "upstream_sha": "f8e6e7b52c1ff74a614052728ccb24c2b4c5e7b6",
+  "optional_adapter_boundary": "passed",
+  "transport": "Real existing task GET/download through the optional module; every POST blocked in this check",
+  "new_paid_tasks": 0,
+  "result": {
+    "bytes": 1691048,
+    "sha256": "d5c3778be5e6cda971c56b879db63ae7c5538854ad8ffa511d3172d797770f6f",
+    "mimeType": "image/png"
+  },
+  "registered_in_original_app": false,
+  "full_app_verified": false,
+  "scope": "EcomGen ImageGenerationResult contract",
+  "upstream_test_suites_run": false,
+  "reason": "Independent contribution module; upstream source unchanged; full native wiring and upstream tests required before PR"
+}
